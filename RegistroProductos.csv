@@ -1,0 +1,12 @@
+Id_Producto,Nombre,Cantidad_Disponible,Cantidad_Vendidos,Estado,Precio,Categor�a,ml,Tipo,Gramos,Sabor,Tama�o
+12345,Gatorade,20,30,Disponible,11,Bebida,500,Energ�tica,,,
+15948,Papas Fritas,20,25,Disponible,25,Snack,,,400,Barbacoa,Individual
+14785,Flan,15,10,Disponible,15,Postre,,,250,Vainilla,Individual
+12344,ICE,12,30,Disponible,8,Bebida,450,Alcohólica
+36743,Camote Frito,20,14,Disponible,20.0,Snack, , ,400,Barbacoa,Individual
+39251,Pastel de chocolate,10,15,Disponible,250.0,Postre, , , ,Chocolate,Familiar
+40805,Jugo de Naranja,12,17,Disponible,18.5,Bebida,450,Natural
+51484,Takis,20,30,Disponible,4.5,Snack, , ,250,Picante,Individual
+75933,Brownie,17,30,Disponible,10.0,Postre, , , ,Chocolate,Individual
+24568,Ensalada de Fruta,5,10,Disponible,25.0,Snack, , ,500,Natural,Individual
+96133,Helado de Chocolate,15,30,Disponible,18.5,Postre, , , ,Chocolate,Individual
